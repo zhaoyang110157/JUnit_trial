@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/unit/TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="314">
+              <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -326,14 +326,11 @@
       <workItem from="1559487190948" duration="1236000" />
       <workItem from="1559488451177" duration="98000" />
       <workItem from="1559488610315" duration="29000" />
-      <workItem from="1559488876593" duration="287000" />
+      <workItem from="1559488876593" duration="554000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TriangleTest_ - 2019.06.02 at 23h 04m 40s.xml">
-      <configuration name="TriangleTest " configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TriangleTest - 2019.06.02 at 23h 04m 54s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
@@ -361,9 +358,12 @@
     <history-entry file="TriangleTest - 2019.06.02 at 23h 24m 10s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TriangleTest - 2019.06.02 at 23h 29m 05s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17038000" />
+    <option name="totallyTimeSpent" value="17305000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,7 +375,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.049597856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -386,7 +386,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.83427763" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.83427763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3323782" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -466,8 +466,8 @@
     <entry file="file://$PROJECT_DIR$/src/test/com/unit/TriangleTest.java" />
     <entry file="file://$PROJECT_DIR$/test/com/unit/TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="314">
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
         </state>
       </provider>
     </entry>
