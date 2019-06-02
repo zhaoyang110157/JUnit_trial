@@ -1,9 +1,11 @@
+package com.unit;
+
 import java.util.Scanner;
 
 public class Triangle {
     public static int JudgeTriangle( int a ,int b, int c){
         if( a+b > c &&  a+c > b && b+ c > a){
-            System.out.println("可以构成三三角形");
+            System.out.println("可以构成三角形");
             return 1;
         }
         else{
@@ -12,7 +14,7 @@ public class Triangle {
         }
     }
 
-    public static int JdugeDTriangle(int a, int b ,int c) {
+    public static int JudgeDTriangle(int a, int b ,int c) {
         if (a == b || a == c || b == c) {
             if (a == b && b == c) {
                 System.out.println("是等边三角形");
@@ -52,7 +54,7 @@ public class Triangle {
             System.out.println("数据合法，判定类型");
              if(JudgeTriangle(a,b,c) == 1){
                  JudgeRTriangle(a,b,c);
-                 JdugeDTriangle(a,b,c);
+                 JudgeDTriangle(a,b,c);
              }
         }
     }
