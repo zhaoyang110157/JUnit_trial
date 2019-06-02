@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class triangleTest {
+public class TriangleTest {
 
     @Test
     public void judgeTriangle() {

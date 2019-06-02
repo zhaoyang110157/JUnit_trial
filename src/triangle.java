@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class triangle {
+public class Triangle {
     public static int JudgeTriangle( int a ,int b, int c){
         if( a+b > c &&  a+c > b && b+ c > a){
             System.out.println("可以构成三三角形");
