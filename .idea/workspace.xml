@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfa27231-aee3-4f6d-841d-a2d847224917" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test Results - TriangleTestWithCoverageFailure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Results - TriangleTest_.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/unit/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/unit/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Junit_trial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Junit_trial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Junit_trial/triangleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/triangleTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/unit/TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+            <state relative-caret-position="70">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -62,22 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-        <option value="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/junit.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="651" />
+    <option name="x" value="650" />
     <option name="y" value="5" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -88,105 +71,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit_trial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit_trial" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,11 +81,12 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.7141.44/lib/hamcrest-core-1.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/junit.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -298,8 +186,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TriangleTest" />
-        <item itemvalue="JUnit.TriangleTest " />
         <item itemvalue="JUnit.TriangleTest.judgeTriangle" />
+        <item itemvalue="JUnit.TriangleTest " />
         <item itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
@@ -326,23 +214,13 @@
       <workItem from="1559487190948" duration="1236000" />
       <workItem from="1559488451177" duration="98000" />
       <workItem from="1559488610315" duration="29000" />
-      <workItem from="1559488876593" duration="554000" />
+      <workItem from="1559488876593" duration="1083000" />
+      <workItem from="1559490013470" duration="628000" />
+      <workItem from="1559491810515" duration="491000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TriangleTest - 2019.06.02 at 23h 04m 54s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangleTest - 2019.06.02 at 23h 07m 28s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangleTest - 2019.06.02 at 23h 14m 21s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangleTest_judgeTriangle - 2019.06.02 at 23h 14m 26s.xml">
-      <configuration name="TriangleTest.judgeTriangle" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TriangleTest_judgeTriangle - 2019.06.02 at 23h 17m 01s.xml">
       <configuration name="TriangleTest.judgeTriangle" configurationId="JUnit" />
     </history-entry>
@@ -361,9 +239,21 @@
     <history-entry file="TriangleTest - 2019.06.02 at 23h 29m 05s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TriangleTest - 2019.06.02 at 23h 34m 44s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleTest_judgeTriangle - 2019.06.02 at 23h 40m 31s.xml">
+      <configuration name="TriangleTest.judgeTriangle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleTest_judgeTriangle - 2019.06.03 at 00h 10m 27s.xml">
+      <configuration name="TriangleTest.judgeTriangle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleTest - 2019.06.03 at 00h 17m 47s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17305000" />
+    <option name="totallyTimeSpent" value="18953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,7 +267,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.049597856" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.12935656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,7 +276,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.83427763" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7124646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,7 +284,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3323782" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -413,10 +303,10 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Junit_trial$TriangleTest_judgeTriangle.ic" NAME="TriangleTest.judgeTriangle Coverage Results" MODIFIED="1559488620363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Junit_trial$TriangleTest_judgeTriangle.ic" NAME="TriangleTest.judgeTriangle Coverage Results" MODIFIED="1559491826813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.unit.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Junit_trial$TriangleTest.ic" NAME="TriangleTest Coverage Results" MODIFIED="1559489050071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/Junit_trial$TriangleTest.ic" NAME="TriangleTest Coverage Results" MODIFIED="1559492266979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>com.unit.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Junit_trial$triangle.ic" NAME="triangle Coverage Results" MODIFIED="1559379913333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -466,8 +356,8 @@
     <entry file="file://$PROJECT_DIR$/src/test/com/unit/TriangleTest.java" />
     <entry file="file://$PROJECT_DIR$/test/com/unit/TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        <state relative-caret-position="70">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -534,7 +424,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>hamcrest-core-1.3</last-edited>
+          <last-edited>junit</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
